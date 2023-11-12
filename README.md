@@ -1,0 +1,1 @@
+You need to have MYSQL in your to run this code and mysql-connector-java.jar from https://dev.mysql.com/downloads/connector/j/ and select "platform independent" option to get the jar file
